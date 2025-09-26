@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large model files (uncomment if models are too large for git)
+# models/*.pkl
+# models/*.joblib
+
+# Dataset files (uncomment if datasets are too large for git)
+# data/*.csv
+# data/*.json
+# data/*.xlsx
+# !data/.gitkeep
+
+# Report outputs that are generated
+# reports/*.png
+# reports/*.pdf
+# reports/*.html
+# !reports/.gitkeep
