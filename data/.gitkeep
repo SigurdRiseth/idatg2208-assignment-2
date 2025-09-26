@@ -1,0 +1,12 @@
+# Data Directory
+
+This directory is intended to store datasets used in the machine learning exercises.
+
+## Structure:
+- Raw data files (CSV, JSON, etc.)
+- Preprocessed data files from Exercise-1
+- Train/test splits
+- Feature engineered datasets
+
+## Note:
+Add your dataset files here. Make sure to update .gitignore if you have large files that shouldn't be committed to version control.

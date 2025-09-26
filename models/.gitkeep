@@ -1,0 +1,11 @@
+# Models Directory
+
+This directory is intended to store trained machine learning models.
+
+## Structure:
+- Serialized models (pickle, joblib files)
+- Model configurations
+- Hyperparameter tuning results
+
+## Note:
+Use joblib or pickle to save your trained models here for reuse and deployment.

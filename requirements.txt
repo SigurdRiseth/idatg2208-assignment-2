@@ -1,0 +1,23 @@
+# Core data science packages
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional ML tools
+mlxtend>=0.19.0
+scipy>=1.7.0
+
+# Visualization and plotting
+graphviz>=0.17.0
+
+# Optional: for better notebook experience
+jupyterlab>=3.0.0
+notebook>=6.4.0
