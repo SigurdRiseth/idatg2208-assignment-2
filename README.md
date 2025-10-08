@@ -6,10 +6,10 @@ This repository contains a comprehensive machine learning assignment with four e
 
 This assignment focuses on practical implementation and comparison of machine learning algorithms, specifically:
 
-- **Exercise-1: Data Preparation [10 points]** - Data preprocessing, cleaning, and feature engineering
-- **Exercise-2: Decision Trees [30 points]** - Implementation and analysis of Decision Tree algorithms
-- **Exercise-3: Support Vector Machines (SVM) [30 points]** - SVM implementation with different kernels
-- **Exercise-4: Model Comparison [30 points]** - Comprehensive comparison of ML algorithms
+- **Exercise 1: Data Preparation** - Data preprocessing, cleaning, and feature engineering
+- **Exercise 2: Decision Trees** - Implementation and analysis of Decision Tree algorithms
+- **Exercise 3: Support Vector Machines (SVM)** - SVM implementation with different kernels
+- **Exercise 4: Model Comparison** - Comprehensive comparison of ML algorithms
 
 **Total Points: 100**
 
@@ -18,15 +18,17 @@ This assignment focuses on practical implementation and comparison of machine le
 ```
 idatg2208-assignment-2/
 ├── notebooks/                          # Jupyter notebooks for each exercise
-│   ├── Exercise-1_Data_Preparation.ipynb
-│   ├── Exercise-2_Decision_Trees.ipynb
-│   ├── Exercise-3_Support_Vector_Machines.ipynb
-│   └── Exercise-4_Model_Comparison.ipynb
+│   ├── 01_Data_Preparation.ipynb
+│   ├── 02_Decision_Trees.ipynb
+│   ├── 03_Support_Vector_Machines.ipynb
+│   └── 04_Model_Comparison.ipynb
 ├── data/                               # Dataset storage
-│   └── .gitkeep
+├── models/                             # Saved models and related files
 ├── reports/                            # Analysis reports and visualizations
-│   └── .gitkeep
+│   ├── tables/
+│   └── figures/
 ├── .gitignore                          # Git ignore file
+├── requirements.txt                    # Python dependencies
 └── README.md                           # This file
 ```
 
